@@ -20,11 +20,16 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 ## 🧱 Estructura general del proyecto
 
 ```plaintext
+
+
+📁LlanquihueTourAppS5
+├── resources/    # Archivo .xlsx
+├── 📁 src/main/java/com/llanquihuetour/src/
 📁 src/
-├── model/    # Clase de dominio (Tour)         
-├── data/     # Clase para la carga y lectura de archivos .txt  
+├── model/    # Clase de dominio (Proveedor)         
+├── data/     # Clase para la carga y lectura de archivos .xlsx  
 ├── ui/       # Clase principal con el método main
-resources/    # Archivo .xlsx
+
 ````
 
 ---
@@ -41,7 +46,7 @@ git clone https://github.com/arielalcayaga/LLanquihueTourApp_Sumativa2_S5.git
 
 2. Abre el proyecto en IntelliJ IDEA.
 
-3. Verifica que los archivos `.txt` estén correctamente ubicados.
+3. Verifica que los archivos `.xlsx` estén correctamente ubicados.
 
 4. Ejecuta el archivo `Main.java` desde el paquete `ui`.
 
