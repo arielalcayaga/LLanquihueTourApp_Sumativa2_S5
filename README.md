@@ -23,8 +23,9 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 
 
 📁LlanquihueTourAppS5
+├── pom.xlm
 ├── resources/    # Archivo .xlsx
-├── 📁 src/main/java/com/llanquihuetour/src/
+├── 📁 src/main/java/com/llanquihuetour/
 📁 src/
 ├── model/    # Clase de dominio (Proveedor)         
 ├── data/     # Clase para la carga y lectura de archivos .xlsx  
