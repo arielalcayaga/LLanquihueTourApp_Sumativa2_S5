@@ -24,7 +24,7 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 ├── model/    # Clase de dominio (Tour)         
 ├── data/     # Clase para la carga y lectura de archivos .txt  
 ├── ui/       # Clase principal con el método main
-resources/    # Archivo .txt
+resources/    # Archivo .xlsx
 ````
 
 ---
